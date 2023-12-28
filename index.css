@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+}
+.a{
+    transform: translateY(50dvh);
+}
+#inp{
+    font-size: 2em;
+}
+#butt{
+    font-size: 2em;
+}
+#a1{
+    display: none;
+}
+#a2{
+    display: none;
+}
+#a3{
+    display: none;
+    width: 50dvh;
+}
+
+
